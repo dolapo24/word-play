@@ -1,6 +1,6 @@
 body{
     background-image: url(/image/wp.jpg);
-    background-position: fixed;
+    /* background-position: fixed; */
     background-size: cover;
 }
 
