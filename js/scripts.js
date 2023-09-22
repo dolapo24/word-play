@@ -24,7 +24,6 @@ $(document).ready(function() {
         const result = reversedSentence + ' ' + sentence;
 
         $("#result").html(result);
-        $("#result").show();
     });
 });    
 
